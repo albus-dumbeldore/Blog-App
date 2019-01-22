@@ -1,3 +1,16 @@
 i.icon{
     font-size: 2em;
 }
+.main.container{
+    margin-top: 7.0em;
+}
+#delete{
+    display:inline;
+}
+#distinct.hover{
+    
+    text-decoration: none;
+}
+#distinct.hover:hover{
+    text-decoration:underline;
+}
